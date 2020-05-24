@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="da248d1e-73d9-4197-bdd8-c8c78f39a00c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_paragraph/001_paragraph-element.html" beforeDir="false" afterPath="$PROJECT_DIR$/001_paragraph/001_paragraph-element.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emmet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/emmet/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -31,7 +34,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/001_paragraph" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/001_paragraph/tag attributes" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,7 +46,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\byc\WebstormProjects\learning\001_paragraph\tag attributes" />
       <recent name="C:\Users\byc\WebstormProjects\learning\001_paragraph" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\byc\WebstormProjects\learning\001_paragraph\tag attributes" />
+      <recent name="C:\Users\byc\WebstormProjects\learning\001_paragraph" />
+      <recent name="C:\Users\byc\WebstormProjects\learning" />
     </key>
   </component>
   <component name="RunManager">
@@ -66,7 +77,10 @@
       <updated>1589009884528</updated>
       <workItem from="1589009888356" duration="776000" />
       <workItem from="1589103096446" duration="4987000" />
-      <workItem from="1589180431351" duration="1974000" />
+      <workItem from="1589180431351" duration="3600000" />
+      <workItem from="1590301725629" duration="5068000" />
+      <workItem from="1590323724734" duration="54000" />
+      <workItem from="1590340616104" duration="287000" />
     </task>
     <servers />
   </component>
@@ -78,13 +92,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589103706404" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1590321726945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590321726945" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1589184410677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589184410677" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1589009949405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1589009949405" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1589009944299">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590323436542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589009944299" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590323436542" />
   </component>
 </project>
